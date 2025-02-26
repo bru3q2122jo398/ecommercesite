@@ -39,7 +39,7 @@ const Navbar =() => {
 
     <div className='container mx-auto px-4 md:px-16 lg:px-24 py-4 flex justify-between items-center'>
         <div className='text-lg font-bold'>
-            <Link to="/">e-SHOP</Link>
+            <Link to="/">E-SHOP</Link>
         </div>
         <div className='relative flex-1 mx-4'>
             <form onSubmit={handleSearch}>
